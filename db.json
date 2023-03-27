@@ -1,0 +1,32 @@
+{
+    "users" : [
+        {
+          "id": 1,
+          "nama": "Angga Anugrah Pratama",
+          "alamat": "Samarinda",
+          "umur": "28",
+          "hp": "082256288151"
+        },
+        {
+          "id": 2,
+          "nama": "Hana Wagianthi",
+          "alamat": "Balikpapan",
+          "umur": "30",
+          "hp": "082256288151"
+        },
+        {
+          "id": 3,
+          "nama": "Faiz Al Qaddafi",
+          "alamat": "Bontang",
+          "umur": "18",
+          "hp": "082256288151"
+        },
+        {
+          "id": 4,
+          "nama": "Alfaeza Ar Razqa",
+          "alamat": "Bontang Raya",
+          "umur": "16",
+          "hp": "082256288151"
+        }
+      ]
+}
